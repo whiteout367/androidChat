@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+    <item
+        android:id="@+id/tab_10"
+        android:enabled="true"
+        android:icon="@android:drawable/ic_menu_call"
+        android:title="10대"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/tab_20"
+        android:enabled="true"
+        android:icon="@android:drawable/ic_dialog_email"
+        android:title="20대"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/tab_30"
+        android:enabled="true"
+        android:icon="@android:drawable/ic_menu_camera"
+        android:title="30대"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/tab_40"
+        android:enabled="true"
+        android:icon="@android:drawable/ic_menu_call"
+        android:title="40대"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/tab_50"
+        android:enabled="true"
+        android:icon="@android:drawable/ic_menu_call"
+        android:title="50대"
+        app:showAsAction="ifRoom" />
+</menu>
